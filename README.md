@@ -9,6 +9,7 @@
 ## 🧠 About Me
 
 Business Analyst | Data Analyst | Project Management | Generative AI | Data-driven Decision Making
+
 I thrive on transforming data into actionable insights. My expertise lies in data analysis, visualization, and predictive modeling, aiming to drive strategic decisions.
 
 ---

@@ -8,7 +8,8 @@
 
 ## 🧠 About Me
 
-I'm a passionate Business Analytics professional with a strong IT background. Currently pursuing my MBA in Business Analytics, I thrive on transforming data into actionable insights. My expertise lies in data analysis, visualization, and predictive modeling, aiming to drive strategic decisions.
+
+I thrive on transforming data into actionable insights. My expertise lies in data analysis, visualization, and predictive modeling, aiming to drive strategic decisions.
 
 ---
 
@@ -17,10 +18,10 @@ I'm a passionate Business Analytics professional with a strong IT background. Cu
 - **Languages & Tools:** Python, SQL, Tableau, Power BI, Excel, Jupyter Notebook, VS Code, DAX
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, XGBoost, Statsmodels, NLKT
 - **Soft Skills:** Problem Solving, Leadership, Effective Communication, Analytical Thinking, Collaboration, Adaptability
-- **Analysis & Documentation: BRD, SRS, FSD, Use Cases, RFPs, Process Mapping, Root Cause Analysis
-- **Project Management: Agile, Risk Mitigation, Resource & Strategic Planning, Stakeholder Communication
-- **Data Engineering & Cloud: ETL, Data Cleaning, AWS Fundamentals, Data Modelling, Generative AI
-- **Reporting & BI: KPI tracking & Business Intelligence Dashboards, Analytical Reporting
+- Analysis & Documentation: BRD, SRS, FSD, Use Cases, RFPs, Process Mapping, Root Cause Analysis
+- Project Management: Agile, Risk Mitigation, Resource & Strategic Planning, Stakeholder Communication
+- Data Engineering & Cloud: ETL, Data Cleaning, AWS Fundamentals, Data Modelling, Generative AI
+- Reporting & BI: KPI tracking & Business Intelligence Dashboards, Analytical Reporting
 
 
 ---
@@ -29,7 +30,9 @@ I'm a passionate Business Analytics professional with a strong IT background. Cu
 
 ### 📈 [Retail & Distribution Data Analytics](https://github.com/Ajitha2316/Nse)
 •	Analyzed sales and distribution data for multi-brand portfolio (Adidas, Crocs, Timex) managed by them.
+
 •	Built Power BI dashboards to enhance stock visibility and support strategic decision-making.
+
 •	Identified underperforming SKUs and regions to optimize product allocation and inventory control.
 
 ### 📈 [NSE Indices Analysis](https://github.com/Ajitha2316/Nse)
@@ -72,7 +75,7 @@ Performed sentiment classification on Amazon reviews using NLP techniques and ma
 ---
 
 ## 🏅 Certifications
-- [MY Learnings](https://www.credly.com/users/ajitha-k/badges#credly)
+[MY Learnings](https://www.credly.com/users/ajitha-k/badges#credly)
   
 - Manage Projects like a Pro - Udemy Project management
 - Google Business Intelligence Professional Certificate

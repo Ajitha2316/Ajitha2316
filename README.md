@@ -52,6 +52,8 @@ Performed sentiment classification on Amazon reviews using NLP techniques and ma
 
 - **MBA – Business Analytics**, Anurag University (2023 - 2025) | CGPA: 9.30
 - **B.Tech – IT**, JNTUH (VBIT) (2019 - 2023) | CGPA: 7.89
+- **Inter – MPC**, TSBIE (Narayana College) (2017 - 2019) | CGPA: 8.12
+- **10 – CBSE**, DAV (2017) | CGPA: 9.2
 
 ---
 

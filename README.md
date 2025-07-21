@@ -29,7 +29,7 @@ I thrive on transforming data into actionable insights. My expertise lies in dat
 
 ## 📊 Projects
 
-### 📈 [Retail & Distribution Data Analytics](https://github.com/Ajitha2316/Nse)
+### 📈 [Retail & Distribution Data Analytics]
 •	Analyzed sales and distribution data for multi-brand portfolio (Adidas, Crocs, Timex) managed by them.
 
 •	Built Power BI dashboards to enhance stock visibility and support strategic decision-making.
@@ -43,14 +43,14 @@ I thrive on transforming data into actionable insights. My expertise lies in dat
 
 •	Collaborated using Agile and Monday.com to enhance delivery tracking and stakeholder updates.
 
-### 🎓 [University Placement Analysis](https://github.com/Ajitha2316/SQL-PROJECTS)
+### 🎓 [University Placement Analysis]
 •	Built Power BI dashboards for real-time placement analytics, improving visibility of KPIs.
 
 •	Collaborated with faculty to analyse 2+ years of placement data and optimize placement strategy.
 
 •	Improved data accuracy through advanced preprocessing techniques.
 
-### 🏥 [Healthcare Data Analysis](https://github.com/Ajitha2316/SQL-PROJECTS)
+### 🏥 [Healthcare Data Analysis]
 Analyzed two years of IVF treatment data focusing on cost and time to conceive, providing insights into treatment efficacy and financial planning.
 
 ### ✈️ [British Airways Data Science Job Simulation](https://github.com/Ajitha2316/Tableau-Dashboard---British-Airways-review)

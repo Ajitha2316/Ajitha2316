@@ -2,7 +2,7 @@
 
 🎓 MBA in Business Analytics | 💻 B.Tech in IT  
 📍 Hyderabad, India | 🌐 [Portfolio Website](https://ajitha-reddy-kanumuri.vercel.app/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ajitha-kanumuri) | [GitHub](https://github.com/Ajitha2316)
+🔗 [LinkedIn](https://www.linkedin.com/in/ajitha-reddy-kanumuri/) | [GitHub](https://github.com/Ajitha2316)
 
 ---
 
@@ -42,6 +42,7 @@ Performed sentiment classification on Amazon reviews using NLP techniques and ma
 
 ## 📈 Tableau Dashboards
 
+- [MY TABLEAU REPOSITORY](https://public.tableau.com/app/profile/ajitha.reddy.kanumuri/vizzes)
 - [British Airways Review Dashboard](https://public.tableau.com/app/profile/ajitha.reddy.kanumuri/viz/BRITISHAIRWAYS/Dashboard1)
 - [Netflix Data Analysis Dashboard](https://public.tableau.com/app/profile/ajitha.reddy.kanumuri/viz/NETFIXDATAWORKBOOK/Dashboard1)
 
@@ -49,7 +50,7 @@ Performed sentiment classification on Amazon reviews using NLP techniques and ma
 
 ## 🎓 Education
 
-- **MBA – Business Analytics**, Anurag University (2023 - 2025) | CGPA: 9.23
+- **MBA – Business Analytics**, Anurag University (2023 - 2025) | CGPA: 9.30
 - **B.Tech – IT**, JNTUH (VBIT) (2019 - 2023) | CGPA: 7.89
 
 ---
@@ -65,7 +66,7 @@ Performed sentiment classification on Amazon reviews using NLP techniques and ma
 ---
 
 📫 **Let's Connect!**  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ajitha-kanumuri) or explore more of my work on my [Portfolio Website](https://ajitha-reddy-kanumuri.vercel.app/).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ajitha-reddy-kanumuri/) or explore more of my work on my [Portfolio Website](https://ajitha-reddy-kanumuri.vercel.app/).
 ## Hi there 👋
 
 <!--

@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-
+Business Analyst | Data Analyst | Project Management | Generative AI | Data-driven Decision Making
 I thrive on transforming data into actionable insights. My expertise lies in data analysis, visualization, and predictive modeling, aiming to drive strategic decisions.
 
 ---
@@ -37,12 +37,16 @@ I thrive on transforming data into actionable insights. My expertise lies in dat
 
 ### 📈 [NSE Indices Analysis](https://github.com/Ajitha2316/Nse)
 •	Analyzed 6 years of historical data across 9 NSE Indices using Python and Power BI.
+
 •	Performed sectoral and volatility analysis, identified trends & built accurate stock price prediction models.
+
 •	Collaborated using Agile and Monday.com to enhance delivery tracking and stakeholder updates.
 
 ### 🎓 [University Placement Analysis](https://github.com/Ajitha2316/SQL-PROJECTS)
 •	Built Power BI dashboards for real-time placement analytics, improving visibility of KPIs.
+
 •	Collaborated with faculty to analyse 2+ years of placement data and optimize placement strategy.
+
 •	Improved data accuracy through advanced preprocessing techniques.
 
 ### 🏥 [Healthcare Data Analysis](https://github.com/Ajitha2316/SQL-PROJECTS)

@@ -14,23 +14,36 @@ I'm a passionate Business Analytics professional with a strong IT background. Cu
 
 ## 🛠️ Skills & Tools
 
-- **Languages & Tools:** Python, SQL, Tableau, Power BI, Excel, Jupyter Notebook, VS Code
-- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, XGBoost, Statsmodels
-- **Cloud & Platforms:** AWS (S3, EC2, Lambda), Generative AI
+- **Languages & Tools:** Python, SQL, Tableau, Power BI, Excel, Jupyter Notebook, VS Code, DAX
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, XGBoost, Statsmodels, NLKT
 - **Soft Skills:** Problem Solving, Leadership, Effective Communication, Analytical Thinking, Collaboration, Adaptability
+- **Analysis & Documentation: BRD, SRS, FSD, Use Cases, RFPs, Process Mapping, Root Cause Analysis
+- **Project Management: Agile, Risk Mitigation, Resource & Strategic Planning, Stakeholder Communication
+- **Data Engineering & Cloud: ETL, Data Cleaning, AWS Fundamentals, Data Modelling, Generative AI
+- **Reporting & BI: KPI tracking & Business Intelligence Dashboards, Analytical Reporting
+
 
 ---
 
 ## 📊 Projects
 
+### 📈 [Retail & Distribution Data Analytics](https://github.com/Ajitha2316/Nse)
+•	Analyzed sales and distribution data for multi-brand portfolio (Adidas, Crocs, Timex) managed by them.
+•	Built Power BI dashboards to enhance stock visibility and support strategic decision-making.
+•	Identified underperforming SKUs and regions to optimize product allocation and inventory control.
+
 ### 📈 [NSE Indices Analysis](https://github.com/Ajitha2316/Nse)
-Analyzed 6 years of data across 9 NSE indices to identify trends, volatility patterns, and sector performance. Implemented predictive models to provide strategic investment insights.
+•	Analyzed 6 years of historical data across 9 NSE Indices using Python and Power BI.
+•	Performed sectoral and volatility analysis, identified trends & built accurate stock price prediction models.
+•	Collaborated using Agile and Monday.com to enhance delivery tracking and stakeholder updates.
+
+### 🎓 [University Placement Analysis](https://github.com/Ajitha2316/SQL-PROJECTS)
+•	Built Power BI dashboards for real-time placement analytics, improving visibility of KPIs.
+•	Collaborated with faculty to analyse 2+ years of placement data and optimize placement strategy.
+•	Improved data accuracy through advanced preprocessing techniques.
 
 ### 🏥 [Healthcare Data Analysis](https://github.com/Ajitha2316/SQL-PROJECTS)
 Analyzed two years of IVF treatment data focusing on cost and time to conceive, providing insights into treatment efficacy and financial planning.
-
-### 🎓 [University Placement Analysis](https://github.com/Ajitha2316/SQL-PROJECTS)
-Developed interactive dashboards and predictive models to analyze university placement trends, aiming to enhance student employability.
 
 ### ✈️ [British Airways Data Science Job Simulation](https://github.com/Ajitha2316/Tableau-Dashboard---British-Airways-review)
 Built an interactive Tableau dashboard to visualize customer reviews, identifying key factors influencing buying behavior using predictive modeling.
@@ -43,9 +56,10 @@ Performed sentiment classification on Amazon reviews using NLP techniques and ma
 ## 📈 Tableau Dashboards
 
 - [MY TABLEAU REPOSITORY](https://public.tableau.com/app/profile/ajitha.reddy.kanumuri/vizzes)
-- [British Airways Review Dashboard](https://public.tableau.com/app/profile/ajitha.reddy.kanumuri/viz/BRITISHAIRWAYS/Dashboard1)
-- [Netflix Data Analysis Dashboard](https://public.tableau.com/app/profile/ajitha.reddy.kanumuri/viz/NETFIXDATAWORKBOOK/Dashboard1)
 
+## 📈 Power BI Dashboards
+
+- [MY POWER BI DASHBOARDS](https://github.com/Ajitha2316/POWER-BI-DASHBOARDS)
 ---
 
 ## 🎓 Education
@@ -58,7 +72,9 @@ Performed sentiment classification on Amazon reviews using NLP techniques and ma
 ---
 
 ## 🏅 Certifications
-
+- [MY Learnings](https://www.credly.com/users/ajitha-k/badges#credly)
+  
+- Manage Projects like a Pro - Udemy Project management
 - Google Business Intelligence Professional Certificate
 - Cisco CyberOps Associate
 - Celonis Execution Management Consulting
